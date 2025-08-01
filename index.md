@@ -13,3 +13,6 @@ This is a commit to show headers.
 string foo = "Hello World!";
 Console.WriteLine(foo);
 ```
+- [x] Make a checkbox that is marked
+- [ ] Make an empty checkbox
+- [ ] Make a third checkbox for good measure
